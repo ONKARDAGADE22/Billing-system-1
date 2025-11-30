@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+google-generativeai
+opencv-python-headless
+numpy
+pydantic
+nest_asyncio
